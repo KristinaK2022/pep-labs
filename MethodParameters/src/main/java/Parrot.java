@@ -11,8 +11,7 @@ public class Parrot {
      * @param text is a parameter passed into this method by whatever called it.
      * @return text.
      */
-    String one = "hello";
-    String two = "polly";
+    
     public String copy(String text){
         return text;
       
